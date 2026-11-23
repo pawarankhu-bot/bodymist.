@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>สินค้าทั้งหมด — Body Scent</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Header & Navigation -->
+  <header class="site-header">
+    <div class="container nav-container">
+      <a href="index.html" class="brand-logo">BODY <span>SCENT</span></a>
+
+      <nav class="nav-links" aria-label="เมนูหลัก">
+        <a href="index.html" class="nav-link">หน้าแรก</a>
+        <a href="product.html" class="nav-link active">สินค้าทั้งหมด</a>
+        <a href="order.html" class="nav-link">สั่งซื้อสินค้า</a>
+      </nav>
+
+      <div class="nav-actions">
+        <a href="order.html" class="btn btn-outline btn-sm">สั่งซื้อทันที</a>
+        <button type="button" class="mobile-menu-btn" aria-label="เปิดเมนู">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="section">
+      <div class="container">
+        <!-- Page Header -->
+        <div class="section-header">
+          <span class="eyebrow">The Fragrance Collection</span>
+          <h1 class="section-title">คอลเลกชันน้ำหอมและโรลออนทั้งหมด</h1>
+          <p class="section-subtitle">
+            เลือกสัมผัสความหอมที่สะท้อนอารมณ์และตัวตนของคุณ ทั้งขนาดพกพา 30ml ขวดใหญ่ 100ml และผลิตภัณฑ์โรลออน
+          </p>
+          <div class="divider-gold"></div>
+        </div>
+
+        <!-- Mood Filter Bar (Managed dynamically by script.js) -->
+        <div id="filter-bar" class="filter-bar"></div>
+
+        <!-- Product Cards Grid (Rendered dynamically from products.json by script.js) -->
+        <div id="product-list" class="product-grid"></div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div>
+          <div class="footer-brand">BODY SCENT</div>
+          <p style="font-size: 0.92rem; max-width: 340px;">
+            เสน่ห์ความหอมที่สะท้อนทุกอารมณ์และตัวตน ในแบบที่เป็นคุณ คัดสรรกลิ่นหอมเรียบหรูเพื่อทุกวันพิเศษ
+          </p>
+        </div>
+
+        <div>
+          <h4 class="footer-heading">เมนูนำทาง</h4>
+          <ul class="footer-links">
+            <li><a href="index.html">หน้าแรก</a></li>
+            <li><a href="product.html">สินค้าทั้งหมด</a></li>
+            <li><a href="order.html">แบบฟอร์มสั่งซื้อ</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h4 class="footer-heading">กลุ่มกลิ่น Mood</h4>
+          <ul class="footer-links">
+            <li><a href="product.html?mood=fresh">Fresh (สดชื่น)</a></li>
+            <li><a href="product.html?mood=sweet">Sweet (หวานละมุน)</a></li>
+            <li><a href="product.html?mood=confident">Confident (มั่นใจ)</a></li>
+            <li><a href="product.html?mood=romance">Romance (โรแมนติก)</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h4 class="footer-heading">บริการลูกค้า</h4>
+          <ul class="footer-links">
+            <li>จัดส่งทั่วประเทศ</li>
+            <li>สอบถามและสั่งซื้อออนไลน์ได้ตลอด 24 ชม.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <span>&copy; 2026 BODY SCENT. All rights reserved.</span>
+        <span>Minimalist Fragrance Collection</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

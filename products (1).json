@@ -1,0 +1,102 @@
+[
+  {
+    "id": "fresh-spray-30",
+    "name": "น้ำหอมฉีดตัว Fresh เล็ก 30ml",
+    "mood": "fresh",
+    "type": "spray",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/fresh.jpg",
+    "description": "กลิ่นหอมสะอาดสดชื่นจากยอดใบชาขาว เบอร์กาม็อต และไอหมอกยามเช้า ให้ความรู้สึกโปร่งสบาย เบาสบายผิว พกพาสะดวกสำหรับเติมความสดชื่นระหว่างวัน"
+  },
+  {
+    "id": "fresh-spray-100",
+    "name": "น้ำหอมฉีดตัว Fresh ใหญ่ 100ml",
+    "mood": "fresh",
+    "type": "spray",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/fresh.jpg",
+    "description": "กลิ่นหอมสะอาดสดชื่นจากยอดใบชาขาว เบอร์กาม็อต และไอหมอกยามเช้า ขนาดคุ้มค่าสำหรับฉีดพรมผิวกายและเสื้อผ้าเป็นประจำทุกวัน"
+  },
+  {
+    "id": "sweet-spray-30",
+    "name": "น้ำหอมฉีดตัว Sweet เล็ก 30ml",
+    "mood": "sweet",
+    "type": "spray",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/sweet.jpg",
+    "description": "กลิ่นหอมหวานละมุนอย่างมีระดับ ผสานวานิลลาอุ่น ลูกแพร์สุก และไวท์มัสก์ ให้ความรู้สึกอ่อนโยน นุ่มนวล ไม่หวานเลี่ยน ขนาดพกพา"
+  },
+  {
+    "id": "sweet-spray-100",
+    "name": "น้ำหอมฉีดตัว Sweet ใหญ่ 100ml",
+    "mood": "sweet",
+    "type": "spray",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/sweet.jpg",
+    "description": "กลิ่นหอมหวานละมุนอย่างมีระดับ ผสานวานิลลาอุ่น ลูกแพร์สุก และไวท์มัสก์ โอบกอดผิวด้วยความนุ่มนวลชวนหลงใหลในขนาดใหญ่ 100ml"
+  },
+  {
+    "id": "confident-spray-30",
+    "name": "น้ำหอมฉีดตัว Confident เล็ก 30ml",
+    "mood": "confident",
+    "type": "spray",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/confident.jpg",
+    "description": "กลิ่นหอมสุขุมลุ่มลึกจากไม้ซีดาร์ แอมเบอร์ และกระวานอ่อน สะท้อนบุคลิกที่มั่นใจ เรียบหรู และน่าเชื่อถือในทุกโอกาส ขนาดพกพา"
+  },
+  {
+    "id": "confident-spray-100",
+    "name": "น้ำหอมฉีดตัว Confident ใหญ่ 100ml",
+    "mood": "confident",
+    "type": "spray",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/confident.jpg",
+    "description": "กลิ่นหอมสุขุมลุ่มลึกจากไม้ซีดาร์ แอมเบอร์ และกระวานอ่อน เติมเต็มเสน่ห์ความสง่างามอย่างเป็นธรรมชาติสำหรับทุกวันสำคัญ"
+  },
+  {
+    "id": "romance-spray-30",
+    "name": "น้ำหอมฉีดตัว Romance เล็ก 30ml",
+    "mood": "romance",
+    "type": "spray",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/romance.jpg",
+    "description": "กลิ่นหอมเย้ายวนแสนโรแมนติกจากกุหลาบดามัสก์ ดอกพีโอนี และแคชเมียร์นุ่มละมุน สร้างบรรยากาศน่าจดจำในขนาดพกพา 30ml"
+  },
+  {
+    "id": "romance-spray-100",
+    "name": "น้ำหอมฉีดตัว Romance ใหญ่ 100ml",
+    "mood": "romance",
+    "type": "spray",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/romance.jpg",
+    "description": "กลิ่นหอมเย้ายวนแสนโรแมนติกจากกุหลาบดามัสก์ ดอกพีโอนี และแคชเมียร์นุ่มละมุน เสน่ห์ความหอมละเมียดละไมในขวดใหญ่ 100ml"
+  },
+  {
+    "id": "fresh-rollon",
+    "name": "โรลออน Fresh",
+    "mood": "fresh",
+    "type": "rollon",
+    "size": "50ml",
+    "price": 149,
+    "image": "images/fresh.jpg",
+    "description": "โรลออนระงับกลิ่นกายสูตรอ่อนโยนผสานกลิ่นหอมสะอาดจากใบชาขาวและซิตรัส แห้งไว ไม่ทิ้งคราบ พร้อมความสดชื่นยาวนานตลอดวัน"
+  },
+  {
+    "id": "sweet-rollon",
+    "name": "โรลออน Sweet",
+    "mood": "sweet",
+    "type": "rollon",
+    "size": "50ml",
+    "price": 149,
+    "image": "images/sweet.jpg",
+    "description": "โรลออนระงับกลิ่นกายสูตรอ่อนโยนมอบกลิ่นหอมหวานละมุนของวานิลลาและมวลดอกไม้สีขาว ติดทนนานอย่างเป็นธรรมชาติ"
+  }
+]
